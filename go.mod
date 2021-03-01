@@ -14,7 +14,7 @@ require (
 	github.com/goreleaser/nfpm/v2 v2.3.1
 	github.com/imdario/mergo v0.3.11
 	github.com/jarcoal/httpmock v1.0.8
-	github.com/mattn/go-shellwords v1.0.10
+	github.com/mattn/go-shellwords v1.0.11
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/spf13/cobra v1.1.3
 	github.com/stretchr/testify v1.7.0
