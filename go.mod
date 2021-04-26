@@ -11,8 +11,8 @@ require (
 	github.com/fatih/color v1.10.0
 	github.com/google/go-github/v28 v28.1.1
 	github.com/goreleaser/fileglob v1.2.0
-	github.com/goreleaser/nfpm/v2 v2.3.1
-	github.com/imdario/mergo v0.3.11
+	github.com/goreleaser/nfpm/v2 v2.5.0
+	github.com/imdario/mergo v0.3.12
 	github.com/jarcoal/httpmock v1.0.8
 	github.com/mattn/go-shellwords v1.0.10
 	github.com/mitchellh/go-homedir v1.1.0
